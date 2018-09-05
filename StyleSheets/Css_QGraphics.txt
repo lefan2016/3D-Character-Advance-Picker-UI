@@ -1,0 +1,5 @@
+{
+   background-color: qradialgradient(cx: 0.5, cy: 0.5, radius: 1.0, fx: 0.5 , fy: 0.5 , stop: 0 rgba(80,150,150,150), stop: 0.4 rgba(40,135,135,130), stop: 1.0 rgba(0,120,119,80))
+
+}
+

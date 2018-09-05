@@ -1,0 +1,1021 @@
+{
+ "Cheek_l_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Cheek_r_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Eye_l_Manual_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Eye_r_Manual_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0
+  }, 
+  "start": {}
+ }, 
+ "HitchHeadWire_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "HitchHeadWire_Mid_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "HitchHeadWire_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Hitch_head_IK_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_Center_Dw_0_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_Center_top_0_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_l_Corner_Ctrl": {
+  "end": {
+   "tx": 1.7664460181001855, 
+   "ty": 7.105427357601046e-15, 
+   "tz": -1.0274969879821543
+  }, 
+  "start": {}
+ }, 
+ "Lip_l_DW_01_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_l_DW_02_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_l_top_01_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_l_top_02_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_r_Corner_Ctrl": {
+  "end": {
+   "tx": 1.8803604293629061, 
+   "ty": -2.6645352591003694e-15, 
+   "tz": -1.0248441338379142
+  }, 
+  "start": {}
+ }, 
+ "Lip_r_DW_01_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_r_DW_02_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_r_top_01_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Lip_r_top_02_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "MouthUp_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "sx": 1.0, 
+   "sy": 1.0, 
+   "sz": 1.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Sneer_l_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Sneer_r_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "Tonge_joint_03_Bind": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 26.237714110363314, 
+   "rz": 0.0, 
+   "tx": 0.7435402012854173, 
+   "ty": -8.874194781793839e-17, 
+   "tz": 1.508565766028828
+  }, 
+  "start": {}
+ }, 
+ "Tonge_joint_04_Bind": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 13.54139827126034, 
+   "rz": 0.0, 
+   "tx": -0.5495925703453803, 
+   "ty": -0.38234125047853423, 
+   "tz": 0.3273026156947025
+  }, 
+  "start": {}
+ }, 
+ "Tonge_joint_05_Bind": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "browIn_l_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": -7.105427357600957e-15, 
+   "ty": 1.0868598827300036, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "browIn_r_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "browMid_l_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "browMid_r_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "browOut_l_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 1.4210854715202635e-14, 
+   "ty": 0.08568729225295124, 
+   "tz": -8.881784197001647e-16
+  }, 
+  "start": {}
+ }, 
+ "browOut_r_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "chin_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "ear_l_Tip_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "ear_l_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "ear_r_Tip_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "ear_r_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBall_l_Aim_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_l_wireCrv_0_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_l_wireCrv_1_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_l_wireCrv_2_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_l_wireCrv_3_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_l_wireCrv_4_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_l_wireCrv_5_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_r_wireCrv_0_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_r_wireCrv_1_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_r_wireCrv_2_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_r_wireCrv_3_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_r_wireCrv_4_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyeBrow_r_wireCrv_5_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_1_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_1_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_2_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_2_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_3_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_3_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_4_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_4_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_5_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_l_joint_5_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_1_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_1_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_2_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_2_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_3_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_3_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_4_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_4_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_5_Down_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyelip_r_joint_5_top_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "eyesMain_LookAt_Ctrl": {
+  "end": {
+   "tx": -0.10675414530482552, 
+   "ty": -0.08091008664430888
+  }, 
+  "start": {}
+ }, 
+ "faceUpper_bind_Ctrl": {
+  "end": {
+   "rz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2frontRow_1_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2frontRow_2_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2frontRow_3_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2frontRow_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2row_1_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2row_2_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2row_3_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2row_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_2row_5_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3frontRow_1_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3frontRow_2_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3frontRow_3_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3frontRow_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3row_1_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3row_2_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3row_3_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3row_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_3row_5_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4frontRow_1_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4frontRow_2_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4frontRow_3_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4frontRow_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4row_1_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4row_2_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4row_3_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4row_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_4row_5_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_5frontRow_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "hair_jnt_6frontRow_4_Fk_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "jaw_bind_Ctrl": {
+  "end": {
+   "ry": 0.0, 
+   "rz": -20.345030399682276
+  }, 
+  "start": {}
+ }, 
+ "mouthDw_Ctrl": {
+  "end": {
+   "rx": 11.661215683864866, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "sx": 1.0, 
+   "sy": 1.0, 
+   "sz": 1.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "nose_bind_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": -7.105427357598794e-15, 
+   "ty": 0.08121959332368396, 
+   "tz": 1.3877787807810143e-17
+  }, 
+  "start": {}
+ }, 
+ "nose_l_tip_bind_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "nose_r_tip_bind_Ctrl": {
+  "end": {
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "pomulo_l_cls_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "pomulo_r_cls_Ctrl": {
+  "end": {
+   "rx": 0.0, 
+   "ry": 0.0, 
+   "rz": 0.0, 
+   "tx": 0.0, 
+   "ty": 0.0, 
+   "tz": 0.0
+  }, 
+  "start": {}
+ }, 
+ "scalp_bind_Ctrl": {
+  "end": {
+   "rz": 0.0
+  }, 
+  "start": {}
+ }
+}

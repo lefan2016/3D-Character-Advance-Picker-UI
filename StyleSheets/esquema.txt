@@ -1,0 +1,20 @@
+QMenu
+{
+    background : qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 rgb(53, 57, 60), stop:1 rgb(33, 34, 36));
+    shadow : rgb(9, 10, 12);
+    border: 1px solid rgb(9, 10, 12);
+    border-radius: 2px;
+    padding-top : 2px;
+    padding-bottom : 2px;
+    padding-left : 0px;
+    padding-right : 0px;
+    color : rgba(202, 207, 210, 255);
+
+}
+
+
+QMenu::item:selected
+{
+    color : rgba(150,225,100,255);
+    background-color: rgba(255, 255, 255,25);
+}

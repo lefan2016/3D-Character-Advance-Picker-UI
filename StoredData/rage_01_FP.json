@@ -1,0 +1,1024 @@
+{
+    "data": {
+        "hair_jnt_3frontRow_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2row_2_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2frontRow_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "pomulo_l_cls_Ctrl": {
+            "attributes": {
+                "tz": 7.105427357601022e-15, 
+                "tx": 0.0, 
+                "ty": 1.2073082370928638, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2row_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Eye_l_Manual_Ctrl": {
+            "attributes": {
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_3_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Sneer_r_Ctrl": {
+            "attributes": {
+                "Sneer_Breath_In": 0.1, 
+                "tz": 1.7763568394002505e-15, 
+                "tx": 0.0, 
+                "ty": 0.37250736104968496
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2row_5_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_5frontRow_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBall_r_Aim_Ctrl": {
+            "attributes": {
+                "tx": 0.2570081116967211, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4row_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_4_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_r_wireCrv_3_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_3_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4row_5_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_l_Corner_Ctrl": {
+            "attributes": {
+                "tz": 0.2740365145561066, 
+                "tx": -1.2727807089719634, 
+                "ty": -0.0029992253626470056
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2frontRow_1_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_5_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "chin_bind_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": -5.266795664464029
+            }, 
+            "shapes": {}
+        }, 
+        "HitchHeadWire_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4frontRow_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_1frontRow_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_r_top_02_Ctrl": {
+            "attributes": {
+                "tz": -1.3356271542887312, 
+                "tx": 1.1573391435350828, 
+                "ty": 9.860761315262648e-30
+            }, 
+            "shapes": {}
+        }, 
+        "browIn_l_bind_Ctrl": {
+            "attributes": {
+                "tz": -2.1316282072802924e-14, 
+                "tx": 0.40374424384106256, 
+                "ty": -1.2856998954802248, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "browOut_r_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3row_1_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "browMid_l_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2frontRow_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_l_DW_02_Ctrl": {
+            "attributes": {
+                "tz": 0.34088195500834695, 
+                "tx": -7.105427357601101e-15, 
+                "ty": 1.7763568394002757e-15
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_3_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "browOut_l_bind_Ctrl": {
+            "attributes": {
+                "tz": -3.5527136788005546e-15, 
+                "tx": -1.4210854715202212e-14, 
+                "ty": 1.0925334683484658, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "mouthDw_Ctrl": {
+            "attributes": {
+                "sz": 1.0, 
+                "sy": 1.0, 
+                "sx": 1.0, 
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 12.227813281441106, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_4_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_l_top_02_Ctrl": {
+            "attributes": {
+                "tz": -1.335627154288788, 
+                "tx": 0.9059706034133554, 
+                "ty": 2.6645352591003828e-15
+            }, 
+            "shapes": {}
+        }, 
+        "MouthUp_Ctrl": {
+            "attributes": {
+                "sz": 1.0, 
+                "sy": 1.0, 
+                "sx": 1.0, 
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": -11.151165191672304, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_1_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Sneer_l_Ctrl": {
+            "attributes": {
+                "Sneer_Breath_In": 0.1, 
+                "tz": 1.7763568394002505e-15, 
+                "tx": 0.0, 
+                "ty": 0.37250736104968496
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBall_l_Aim_Ctrl": {
+            "attributes": {
+                "tx": -0.20053302452992572, 
+                "ty": -2.842170943040401e-14
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3row_5_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_2_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "nose_l_tip_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_1_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_r_wireCrv_1_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Tonge_joint_04_Bind": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "nose_bind_Ctrl": {
+            "attributes": {
+                "tz": 9.714451465470069e-17, 
+                "tx": 7.105427357600965e-15, 
+                "ty": 1.1406747956486865, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_r_DW_02_Ctrl": {
+            "attributes": {
+                "tz": 0.34088195500834695, 
+                "tx": -7.105427357601101e-15, 
+                "ty": 1.7763568394002757e-15
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_2_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_r_wireCrv_0_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_l_wireCrv_4_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_1_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Cheek_r_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0, 
+                "Global_Scale": 1.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_l_wireCrv_2_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_2_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_5_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4row_1_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Eye_r_Manual_Ctrl": {
+            "attributes": {
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4frontRow_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "nose_r_tip_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2row_1_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "browMid_r_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_l_top_01_Ctrl": {
+            "attributes": {
+                "tz": -0.7015176734898415, 
+                "tx": 1.7763568394002745e-15, 
+                "ty": 1.776356839400275e-15
+            }, 
+            "shapes": {}
+        }, 
+        "faceUpper_bind_Ctrl": {
+            "attributes": {
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2row_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3frontRow_1_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "scalp_bind_Ctrl": {
+            "attributes": {
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4row_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_Center_top_0_Ctrl": {
+            "attributes": {
+                "tz": -1.065256506004602, 
+                "tx": -2.6091259406988966e-16, 
+                "ty": 3.552713678800501e-15
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_4row_2_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_l_DW_01_Ctrl": {
+            "attributes": {
+                "tz": 0.48130070308785755, 
+                "tx": 3.944304526105059e-31, 
+                "ty": 3.552713678800423e-15
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3row_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_r_DW_01_Ctrl": {
+            "attributes": {
+                "tz": 0.48130070308785755, 
+                "tx": 3.944304526105059e-31, 
+                "ty": 3.552713678800423e-15
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_4_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Tonge_joint_05_Bind": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0, 
+                "Tongue_Roll": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_r_Corner_Ctrl": {
+            "attributes": {
+                "tz": 0.2740365145561066, 
+                "tx": -1.2727807089719634, 
+                "ty": -0.0029992253626470056
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_l_wireCrv_5_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_r_top_01_Ctrl": {
+            "attributes": {
+                "tz": -0.7015176734898415, 
+                "tx": 1.7763568394002745e-15, 
+                "ty": 1.776356839400275e-15
+            }, 
+            "shapes": {}
+        }, 
+        "HitchHeadWire_Mid_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_2frontRow_2_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3frontRow_2_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_l_wireCrv_1_Ctrl": {
+            "attributes": {
+                "tz": -2.8421709430407743e-14, 
+                "tx": 1.4210854715203872e-14, 
+                "ty": 0.2130771089239825
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_5_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Cheek_l_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0, 
+                "Global_Scale": 1.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_4_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "HitchHeadWire_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Lip_Center_Dw_0_Ctrl": {
+            "attributes": {
+                "tz": 0.43925163446452387, 
+                "tx": 1.0736281399110737e-16, 
+                "ty": 5.329070518200555e-15
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_r_wireCrv_4_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "jaw_bind_Ctrl": {
+            "attributes": {
+                "Sticky_Lips": 0.0, 
+                "ry": 0.0, 
+                "rz": -5.216651023016254
+            }, 
+            "shapes": {}
+        }, 
+        "Tonge_joint_03_Bind": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "ear_r_Tip_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_2_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_5_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "pomulo_r_cls_Ctrl": {
+            "attributes": {
+                "tz": 7.105427357601026e-15, 
+                "tx": 1.5777218104420236e-30, 
+                "ty": 1.207308237092864, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_l_wireCrv_3_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3frontRow_3_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_r_wireCrv_2_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "browIn_r_bind_Ctrl": {
+            "attributes": {
+                "tz": -2.1316282072802924e-14, 
+                "tx": 0.40374424384106256, 
+                "ty": -1.2856998954802248, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_l_wireCrv_0_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyesMain_LookAt_Ctrl": {
+            "attributes": {
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3row_4_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "ear_r_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyeBrow_r_wireCrv_5_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "ear_l_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "ear_l_Tip_bind_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_r_joint_1_Down_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "eyelip_l_joint_3_top_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hair_jnt_3row_2_Fk_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_head_IK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_head_IK_Ctrl|TopBody_Attrributes": {
+                    "L_eyelip_Dw": 0.9, 
+                    "HAIR_Dyn_0_Fk_10": 6.0, 
+                    "L_eyelip_up": 0.09999999999999998, 
+                    "R_eyelip_Dw": 0.8999999999999999, 
+                    "R_eyelip_Up": 0.1
+                }
+            }
+        }
+    }, 
+    "name": "rage_01_FP", 
+    "screenShot": "C:/Users/ColtDesk/Documents/maya/2016/scripts/HitchAnimationModule\\StoredData\\rage_01_FP.jpg"
+}

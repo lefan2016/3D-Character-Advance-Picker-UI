@@ -1,0 +1,1042 @@
+{
+    "data": {
+        "hitch_midSpine_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "tz": -1.1001493809428577, 
+                "ry": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_midSpine_FK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 12.50654825486023, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_pinky_01_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_bendy_arm_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_pinky_03_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_hips_FK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 6.2601145643218725, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_upperleg_l_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_upperleg_l_FK_Ctrl|Leg_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "Hitch_r_foot_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_foot_FK_Ctrl|Leg_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "hitch_clavicle_r_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_ball_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_ball_IK_Ctrl|Foot_r_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "hitch_middle_03_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_index_01_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_lowerSpine_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "tz": 0.0, 
+                "ry": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_HandMotion_Ctrl": {
+            "attributes": {}, 
+            "shapes": {
+                "Hitch_l_HandMotion_Ctrl|Hand_l_Motions": {
+                    "Ring_Curl": 0.0, 
+                    "Middle_Curl": 0.0, 
+                    "Index_Curl": 0.0, 
+                    "Pinky_Curl": 0.0, 
+                    "Fist": 32.6, 
+                    "Thumb_Curl": 0.0
+                }
+            }
+        }, 
+        "hitch_index_03_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_bendy_leg_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_ring_02_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_pinky_01_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_hand_FK_Ctrl": {
+            "attributes": {
+                "rx": -77.91055891087314, 
+                "ry": 4.654075265122667, 
+                "rz": 3.709315716389123
+            }, 
+            "shapes": {
+                "Hitch_l_hand_FK_Ctrl|Hand_l_Motions": {
+                    "Ring_Curl": 0.0, 
+                    "Middle_Curl": 0.0, 
+                    "Index_Curl": 0.0, 
+                    "Pinky_Curl": 0.0, 
+                    "Fist": 32.6, 
+                    "Thumb_Curl": 0.0
+                }, 
+                "Hitch_l_hand_FK_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_tillOut_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_lowerarm_FK_Ctrl": {
+            "attributes": {
+                "rz": -44.094222988498444
+            }, 
+            "shapes": {
+                "Hitch_l_lowerarm_FK_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_l_toesTip_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_toesTip_IK_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "hitch_middle_02_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_thumb_01_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_leg_PV_Ctrl": {
+            "attributes": {
+                "tz": -37.6150487451324, 
+                "tx": 7.540242434758459e-06, 
+                "ty": 5.0068130528154267e-05
+            }, 
+            "shapes": {
+                "Hitch_l_leg_PV_Ctrl|Leg_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "hitch_middle_02_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_ring_02_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_heel_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_heel_IK_Ctrl|Foot_r_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_HandMotion_Ctrl": {
+            "attributes": {
+                "tz": 14.236791703887462, 
+                "tx": -16.444653813713316, 
+                "ty": -36.94269176751567
+            }, 
+            "shapes": {
+                "Hitch_r_HandMotion_Ctrl|Hand_r_Motions": {
+                    "Ring_Curl": 0.0, 
+                    "Middle_Curl": 0.0, 
+                    "Index_Curl": 0.0, 
+                    "Pinky_Curl": 0.0, 
+                    "Fist": 34.1, 
+                    "Thumb_Curl": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_clavicle_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_leg_PV_Ctrl": {
+            "attributes": {
+                "tz": -20.697642182158827, 
+                "tx": 6.0856959129254254e-06, 
+                "ty": 1.9674475241666724e-05
+            }, 
+            "shapes": {
+                "Hitch_r_leg_PV_Ctrl|Leg_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "Hitch_l_tillIn_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_tillIn_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "hitch_hips__IK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 6.2601145643218725, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_thumb_02_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_chest_IK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 3.094108824785543, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "hitch_chest_IK_Ctrl|TopBody_Attrributes": {
+                    "L_eyelip_Dw": 0.0, 
+                    "HAIR_Dyn_0_Fk_10": 6.0, 
+                    "L_eyelip_up": 0.0, 
+                    "R_eyelip_Dw": 0.0, 
+                    "R_eyelip_Up": 0.0
+                }
+            }
+        }, 
+        "hitch_index_03_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_toes_IK_Ctrl": {
+            "attributes": {
+                "rx": -2.716331129737629e-07, 
+                "ry": 2.862499211809298e-14, 
+                "rz": -6.3611094307810345e-15
+            }, 
+            "shapes": {
+                "Hitch_l_toes_IK_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "hitch_index_02_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_pinky_02_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_toes_IK_Ctrl": {
+            "attributes": {
+                "rx": 2.716330143765677e-07, 
+                "ry": -4.134721082886839e-14, 
+                "rz": -1.2722218823865363e-14
+            }, 
+            "shapes": {
+                "Hitch_r_toes_IK_Ctrl|Foot_r_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_lowerleg_l_FK_Ctrl": {
+            "attributes": {
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_lowerleg_l_FK_Ctrl|Leg_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "Hitch_l_foot_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_foot_FK_Ctrl|Leg_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "Hitch_l_heel_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_heel_IK_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_COG_Ctrl": {
+            "attributes": {
+                "tz": -15.120942800571575, 
+                "tx": 0.0, 
+                "ty": -26.40006710850014, 
+                "rx": 12.696165632605812, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_COG_Ctrl|Premium_Attributes": {
+                    "HyperBreathing": 0.0, 
+                    "Breathing": 0.0
+                }, 
+                "Hitch_COG_CtrlShape": {}
+            }
+        }, 
+        "Hitch_thumb_02_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_upperarmGimbal_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_arm_PV_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_arm_PV_Ctrl|Arm_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_l_ball_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_ball_IK_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "hitch_topSpine_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "tz": 0.0, 
+                "ry": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_neck_FK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": -22.859758242198144, 
+                "ry": -20.039636142036752, 
+                "rz": 6.209449459865806
+            }, 
+            "shapes": {
+                "hitch_neck_FK_Ctrl|TopBody_Attrributes": {
+                    "L_eyelip_Dw": 0.0, 
+                    "HAIR_Dyn_0_Fk_10": 6.0, 
+                    "L_eyelip_up": 0.0, 
+                    "R_eyelip_Dw": 0.0, 
+                    "R_eyelip_Up": 0.0
+                }
+            }
+        }, 
+        "hitch_middle_01_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_lowerarm_FK_Ctrl": {
+            "attributes": {
+                "rz": -38.77496935776551
+            }, 
+            "shapes": {
+                "Hitch_r_lowerarm_FK_Ctrl|Arm_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_l_toes_FK_Ctrl": {
+            "attributes": {
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_upperarm_FK_Ctrl": {
+            "attributes": {
+                "rx": -34.301349409830515, 
+                "ry": 11.690123813243487, 
+                "rz": -12.720180253324854
+            }, 
+            "shapes": {
+                "Hitch_l_upperarm_FK_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_hand_FK_Ctrl": {
+            "attributes": {
+                "rx": -91.63183575879252, 
+                "ry": 7.89531713772964, 
+                "rz": -1.1137943561027075
+            }, 
+            "shapes": {
+                "Hitch_r_hand_FK_Ctrl|Hand_r_Motions": {
+                    "Ring_Curl": 0.0, 
+                    "Middle_Curl": 0.0, 
+                    "Index_Curl": 0.0, 
+                    "Pinky_Curl": 0.0, 
+                    "Fist": 34.1, 
+                    "Thumb_Curl": 0.0
+                }, 
+                "Hitch_r_hand_FK_Ctrl|Arm_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_toes_FK_Ctrl": {
+            "attributes": {
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_toes_FK_Ctrl|Leg_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "Hitch_l_arm_PV_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_arm_PV_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_l_upperarmGimbal_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_upperarmGimbal_FK_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "hitch_clavicle_l_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_hand_IK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_hand_IK_Ctrl|Hand_l_Motions": {
+                    "Ring_Curl": 0.0, 
+                    "Middle_Curl": 0.0, 
+                    "Index_Curl": 0.0, 
+                    "Pinky_Curl": 0.0, 
+                    "Fist": 32.6, 
+                    "Thumb_Curl": 0.0
+                }, 
+                "Hitch_l_hand_IK_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_l_foot_IK_Ctrl": {
+            "attributes": {
+                "tz": -17.858363274924873, 
+                "tx": -4.702246435428492e-05, 
+                "ty": 4.8501105549547665e-06, 
+                "rx": -15.03936402691726, 
+                "ry": -7.583033279093542e-22, 
+                "rz": 1.9189125202028916e-05
+            }, 
+            "shapes": {
+                "Hitch_l_foot_IK_Ctrl|Leg_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }, 
+                "Hitch_l_foot_IK_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_thumb_03_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_ring_01_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_ring_01_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_pinky_03_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_ring_03_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_lowerleg_r_FK_Ctrl": {
+            "attributes": {
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_lowerleg_r_FK_Ctrl|Leg_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "hitch_index_01_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_toesTip_IK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_toesTip_IK_Ctrl|Foot_r_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_l_tillOut_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_tillOut_Ctrl|Foot_l_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_upperleg_r_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_upperleg_r_FK_Ctrl|Leg_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }
+            }
+        }, 
+        "Hitch_thumb_00_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_thumb_03_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_hand_IK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_r_hand_IK_Ctrl|Arm_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }, 
+                "Hitch_r_hand_IK_Ctrl|Hand_r_Motions": {
+                    "Ring_Curl": 0.0, 
+                    "Middle_Curl": 0.0, 
+                    "Index_Curl": 0.0, 
+                    "Pinky_Curl": 0.0, 
+                    "Fist": 34.1, 
+                    "Thumb_Curl": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_bendy_arm_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_ring_03_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_clavicle_FK_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_l_clavicle_FK_Ctrl|Arm_l_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_thumb_00_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_middle_01_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_foot_IK_Ctrl": {
+            "attributes": {
+                "tz": -13.908978608032038, 
+                "tx": -4.7022464324086855e-05, 
+                "ty": 4.850110492782278e-06, 
+                "rx": -9.734974847301693, 
+                "ry": 0.0, 
+                "rz": 1.9189125169923406e-05
+            }, 
+            "shapes": {
+                "Hitch_r_foot_IK_Ctrl|Leg_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 1.0
+                }, 
+                "Hitch_r_foot_IK_Ctrl|Foot_r_IK_Animation_Values": {
+                    "Foot_Roll": 0.0, 
+                    "Hell": 0.0, 
+                    "Ball": 0.0, 
+                    "Toes_Tip": 0.0, 
+                    "Tilt": 0.0
+                }
+            }
+        }, 
+        "Hitch_r_tillIn_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_index_02_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "hitch_middle_03_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_l_bendy_leg_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_thumb_01_l_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_head_IK_Ctrl": {
+            "attributes": {
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {
+                "Hitch_head_IK_Ctrl|TopBody_Attrributes": {
+                    "L_eyelip_Dw": 0.0, 
+                    "HAIR_Dyn_0_Fk_10": 6.0, 
+                    "L_eyelip_up": 0.0, 
+                    "R_eyelip_Dw": 0.0, 
+                    "R_eyelip_Up": 0.0
+                }
+            }
+        }, 
+        "hitch_pinky_02_r_MAIN_Ctrl": {
+            "attributes": {
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0
+            }, 
+            "shapes": {}
+        }, 
+        "Hitch_r_upperarm_FK_Ctrl": {
+            "attributes": {
+                "rx": -43.12758720993621, 
+                "ry": -0.10749729801431598, 
+                "rz": -22.28502307572983
+            }, 
+            "shapes": {
+                "Hitch_r_upperarm_FK_Ctrl|Arm_r_Attributes": {
+                    "FK_Stretch": 0.0, 
+                    "IK_1_FK_0": 0.0
+                }
+            }
+        }, 
+        "Hitch_global_Ground_Ctrl": {
+            "attributes": {
+                "sz": 1.0, 
+                "sy": 1.0, 
+                "sx": 1.0, 
+                "tz": 0.0, 
+                "tx": 0.0, 
+                "ty": 0.0, 
+                "rx": 0.0, 
+                "ry": 0.0, 
+                "rz": 0.0, 
+                "Global_Scale": 1.0
+            }, 
+            "shapes": {
+                "Hitch_global_Ground_Ctrl|Premium_Attributes": {
+                    "HyperBreathing": 0.0, 
+                    "Breathing": 0.0
+                }
+            }
+        }
+    }, 
+    "name": "wolverine_BP", 
+    "screenShot": "C:/Users/ColtDesk/Documents/maya/2016/scripts/HitchAnimationModule\\StoredData\\wolverine_BP.jpg"
+}
